@@ -7,5 +7,5 @@ End Code
 
 <h1>Consulta mi Github para más</h1>
 
-<p><a href="https://github.com/Kevin-v-v" class="btn btn-primary btn-lg">Mi GitHub &raquo;</a></p>
+<p><a href="https://github.com/Kevin-v-v" class="btn btn-primary btn-lg" target="_blank">Mi GitHub &raquo;</a></p>
 
